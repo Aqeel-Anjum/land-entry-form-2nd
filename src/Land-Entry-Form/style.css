@@ -1,0 +1,71 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: rgb(199, 199, 199);    
+}
+
+.text-style{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.khasra-number{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.divider hr {
+    height: 3px solid #ddd;
+    opacity: 0.5;
+}
+
+.input-group {
+    width: 33.33333333%;
+    padding-top: 27px !important;
+}
+
+.land-catagory{
+    margin-top: -12px;
+}
+
+/******************* Media Query *********************/
+
+@media(min-width: 576px) and (max-width: 767px){
+    .input-group {
+        width: 50%;
+        padding-top: 27px !important;
+    }
+    .Un-Possesssion div {
+        margin-left: 0px;
+        padding-bottom: 0px;
+    }
+}
+@media(min-width: 240px) and (max-width: 576px){
+    .input-group {
+        width: 100%;
+        padding-top: 27px !important;
+    }
+    .Un-Possesssion div {
+        margin-left: 0px !important;
+        padding-bottom: 0px !important;
+    }
+}
+@media(min-width: 100px) and (max-width: 242px){
+    .input-group {
+        width: 100%;
+        padding-top: 27px !important;
+    }
+    .Un-Possesssion div {
+        margin-left: 0px !important;
+        padding-bottom: 0px !important;
+    }
+}
+
+
