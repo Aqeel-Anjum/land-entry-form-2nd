@@ -104,7 +104,7 @@ const Form = () => {
 
                         <div className='input-group col-sm-6 col-md-4'>
                             <input type='text' className='form-control' placeholder='Mutation Documents Upload' />
-                            <button className='btn btn-light' className='input-group-text' id='browse'>Browse</button>
+                            <button className='btn btn-light input-group-text' id='browse'>Browse</button>
                         </div>
 
                         {/**************** End Khewat Row *****************/}
@@ -128,7 +128,7 @@ const Form = () => {
 
                         <div className='input-group  '>
                             <input type='text' className='form-control' placeholder='CNIC Upload' />
-                            <button className='btn btn-light' className='input-group-text' id='browse'>Browse</button>
+                            <button className='btn btn-light input-group-text' id='browse'>Browse</button>
                         </div>
 
                         {/**************** End Mutation Row *****************/}
@@ -170,7 +170,7 @@ const Form = () => {
 
                         <div className='input-group'>
                             <input type='text' className='form-control' placeholder='Registry Upload' />
-                            <button className='btn btn-light' className='input-group-text' id='browse'>Browse</button>
+                            <button className='btn btn-light input-group-text' id='browse'>Browse</button>
                         </div>
 
                         {/**************** End Mutation Available Row *****************/}
@@ -204,7 +204,7 @@ const Form = () => {
 
                         <div className='input-group'>
                             <input type='text' className='form-control' placeholder='Agreement Upload' />
-                            <button className='btn btn-light' className='input-group-text' id='browse'>Browse</button>
+                            <button className='btn btn-light input-group-text' id='browse'>Browse</button>
                         </div>
 
                         {/**************** End Mutation Date Row *****************/}
