@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/land-entry-form-2nd/static/css/main.b9848baf.css",
-    "main.js": "/land-entry-form-2nd/static/js/main.355aecd4.js",
+    "main.css": "/land-entry-form-2nd/static/css/main.6493f58e.css",
+    "main.js": "/land-entry-form-2nd/static/js/main.27c319d8.js",
     "index.html": "/land-entry-form-2nd/index.html",
-    "main.b9848baf.css.map": "/land-entry-form-2nd/static/css/main.b9848baf.css.map",
-    "main.355aecd4.js.map": "/land-entry-form-2nd/static/js/main.355aecd4.js.map"
+    "main.6493f58e.css.map": "/land-entry-form-2nd/static/css/main.6493f58e.css.map",
+    "main.27c319d8.js.map": "/land-entry-form-2nd/static/js/main.27c319d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9848baf.css",
-    "static/js/main.355aecd4.js"
+    "static/css/main.6493f58e.css",
+    "static/js/main.27c319d8.js"
   ]
 }
